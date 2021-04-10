@@ -1,0 +1,4 @@
+
+HELLO
+thisisastring
+HELLO
